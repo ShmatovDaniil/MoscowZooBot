@@ -186,5 +186,5 @@ def show_result(message):
     bot.send_message(user_id, text, parse_mode="Markdown")
 
 if __name__ == '__main__':
-    logging.info("Bot is starting...")
+    logging.info("Бот начинает работу...")
     bot.polling(none_stop=True) 
