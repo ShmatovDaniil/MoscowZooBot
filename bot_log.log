@@ -1,0 +1,57 @@
+2025-04-07 05:06:37,483 - INFO - Bot is starting...
+2025-04-07 05:06:56,700 - INFO - User  @ahriamain initiated the quiz.
+2025-04-07 05:07:30,453 - INFO - Bot is starting...
+2025-04-07 05:07:35,156 - INFO - User  @ahriamain initiated the quiz.
+2025-04-07 05:07:52,006 - INFO - User  @ahriamain restarted the quiz.
+2025-04-07 05:07:52,089 - INFO - Question 1 sent to user @5622837114: Какое качество вы цените в себе больше всего?
+2025-04-07 05:08:00,245 - INFO - User  @5622837114 answered B for question 1.
+2025-04-07 05:08:00,469 - INFO - Question 2 sent to user @5622837114: Как вы предпочитаете проводить свободное время?
+2025-04-07 05:08:01,676 - INFO - User  @5622837114 answered B for question 2.
+2025-04-07 05:08:01,759 - INFO - Question 3 sent to user @5622837114: Как вы реагируете на стрессовые ситуации?
+2025-04-07 05:08:02,512 - INFO - User  @5622837114 answered C for question 3.
+2025-04-07 05:08:02,606 - INFO - Question 4 sent to user @5622837114: Какое из этих мест вам ближе всего?
+2025-04-07 05:08:04,294 - INFO - User  @5622837114 answered D for question 4.
+2025-04-07 05:08:04,374 - INFO - Question 5 sent to user @5622837114: Как вы обычно принимаете решения?
+2025-04-07 05:08:05,175 - INFO - User  @5622837114 answered D for question 5.
+2025-04-07 05:08:05,319 - INFO - Question 6 sent to user @5622837114: Как вы относитесь к переменам?
+2025-04-07 05:08:05,940 - INFO - User  @5622837114 answered D for question 6.
+2025-04-07 05:08:06,055 - INFO - Question 7 sent to user @5622837114: Как вы справляетесь с конфликтами?
+2025-04-07 05:08:06,648 - INFO - User  @5622837114 answered D for question 7.
+2025-04-07 05:08:06,739 - INFO - Question 8 sent to user @5622837114: Как вы относитесь к новым знакомствам?
+2025-04-07 05:08:07,378 - INFO - User  @5622837114 answered D for question 8.
+2025-04-07 05:08:07,554 - INFO - Question 9 sent to user @5622837114: Какое ваше любимое время года?
+2025-04-07 05:08:08,144 - INFO - User  @5622837114 answered D for question 9.
+2025-04-07 05:08:08,226 - INFO - Question 10 sent to user @5622837114: Как вы относитесь к риску?
+2025-04-07 05:08:10,164 - INFO - User  @5622837114 answered D for question 10.
+2025-04-07 05:08:10,165 - INFO - User @5622837114 has a totem animal: D.
+2025-04-07 05:08:10,335 - INFO - Result sent to user @5622837114: Ты - Волк! Символ свободы и независимости..
+2025-04-07 05:08:19,286 - INFO - Information about the zoo sent to user @ahriamain.
+2025-04-07 05:08:34,750 - INFO - Feedback received from @ahriamain: Программа требует доработок
+2025-04-07 05:09:12,014 - INFO - Contact info received from @ahriamain: Даниил, +79688065001, shmatov5daniil@gmail.com
+2025-04-07 05:09:59,190 - INFO - User  @ahriamain restarted the quiz.
+2025-04-07 05:09:59,274 - INFO - Question 1 sent to user @5622837114: Какое качество вы цените в себе больше всего?
+2025-04-07 05:10:01,200 - WARNING - User  5622837114 provided an invalid answer: H
+2025-04-07 05:10:04,045 - WARNING - User  5622837114 provided an invalid answer: H
+2025-04-07 05:10:05,556 - WARNING - User  5622837114 provided an invalid answer: F
+2025-04-07 05:10:07,327 - WARNING - User  5622837114 provided an invalid answer: G
+2025-04-07 05:10:09,413 - INFO - User  @5622837114 answered A for question 1.
+2025-04-07 05:10:09,509 - INFO - Question 2 sent to user @5622837114: Как вы предпочитаете проводить свободное время?
+2025-04-07 05:10:10,557 - INFO - User  @5622837114 answered B for question 2.
+2025-04-07 05:10:10,624 - INFO - Question 3 sent to user @5622837114: Как вы реагируете на стрессовые ситуации?
+2025-04-07 05:10:11,501 - INFO - User  @5622837114 answered D for question 3.
+2025-04-07 05:10:11,606 - INFO - Question 4 sent to user @5622837114: Какое из этих мест вам ближе всего?
+2025-04-07 05:10:12,415 - INFO - User  @5622837114 answered C for question 4.
+2025-04-07 05:10:12,506 - INFO - Question 5 sent to user @5622837114: Как вы обычно принимаете решения?
+2025-04-07 05:10:13,844 - INFO - User  @5622837114 answered D for question 5.
+2025-04-07 05:10:13,924 - INFO - Question 6 sent to user @5622837114: Как вы относитесь к переменам?
+2025-04-07 05:10:15,376 - INFO - User  @5622837114 answered B for question 6.
+2025-04-07 05:10:15,477 - INFO - Question 7 sent to user @5622837114: Как вы справляетесь с конфликтами?
+2025-04-07 05:10:16,919 - INFO - User  @5622837114 answered C for question 7.
+2025-04-07 05:10:17,005 - INFO - Question 8 sent to user @5622837114: Как вы относитесь к новым знакомствам?
+2025-04-07 05:10:17,655 - INFO - User  @5622837114 answered D for question 8.
+2025-04-07 05:10:17,724 - INFO - Question 9 sent to user @5622837114: Какое ваше любимое время года?
+2025-04-07 05:10:18,249 - INFO - User  @5622837114 answered B for question 9.
+2025-04-07 05:10:18,323 - INFO - Question 10 sent to user @5622837114: Как вы относитесь к риску?
+2025-04-07 05:10:19,248 - INFO - User  @5622837114 answered A for question 10.
+2025-04-07 05:10:19,250 - INFO - User @5622837114 has a totem animal: B.
+2025-04-07 05:10:19,382 - INFO - Result sent to user @5622837114: Ты - Сова! Символ мудрости и интуиции..
